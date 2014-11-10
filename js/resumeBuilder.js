@@ -11,7 +11,7 @@ var bio = {
 		"location": "Auckland, New Zealand"
     },
 	"imgURL": "images/me.jpg",
-	"welcome": "<strong>Welcome to my Udacity sponsored resume!</strong> All the information you see here is stored in JSON objects and which javascript building the page on the file. It's here to show that I can use some basic javascript front end techniques. The source can be found on <a href='//github.com/ro-savage/udacity-resume'>github project page</a>.",
+	"welcome": "<strong>Welcome to my Udacity sponsored resume!</strong> All the information you see here is stored in JSON objects with javascript building the page on the fly. It's here to show that I can use some basic javascript front end techniques. The source can be found on <a href='//github.com/ro-savage/udacity-resume'>github project page</a>.",
 	"skills": ["Frontend Web", "Backend Web", "Pretty big data", "Training" ]
 };
 
@@ -69,21 +69,21 @@ var work = {
 			"title": "Senior web developer",
 			"location": "Townsville, Australia",
 			"dates": "2013-2014",
-			"description": "Overseas the maintanence and improvement of safeworkaustralia.gov.au"
+			"description": "Oversaw the maintanence and improvement of safeworkaustralia.gov.au"
 		},
 		{
 			"employer": "National Science and Technology Center (Questacon)",
 			"title": "Web developer",
 			"location": "Sydney, Australia",
 			"dates": "2010-2011",
-			"description": "Created mobile version of Questacon's website and assistaced in the audit and implemntation of a accessibility improvements"
+			"description": "Created the mobile version of Questacon's website and assisted in the audit and implemntation of accessibility improvements"
 		},
 		{
 			"employer": "Insitec",
 			"title": "Web App Developer",
 			"location": "Canberra, Australia",
 			"dates": "2009-2010",
-			"description": "Assistated with the development of a custom CMS aimed at government departments."
+			"description": "Assistated with the development of a custom CMS aimed at government government."
 		}
 	]
 };
